@@ -38,15 +38,15 @@ elif choice == "Student Information":
     st.title("📚 Student Information")
     st.markdown("""
     #### Developer Information:
-    - **Student Name**: [Azumara Emmanuel]
-    - **Matriculation Number**: [Enter Matric Number]
+    - **Student Name**: Azumara Emmanuel
+    - **Matriculation Number**: Enter Matric Number
     - **Supervisor Name**: [Enter Supervisor Name]
     - **Department**: Computer Science
     - **School**: Imo State University
     """)
     
     st.subheader("Passport Photograph")
-    st.image("passport.png", width=150, caption="Student Passport")
+    st.image("WhatsApp Image 2024-11-28 at 23.14.18.jpeg", width=150, caption="Student Passport")
 
 # Page 3: Prediction App
 # Page 3: Prediction App
