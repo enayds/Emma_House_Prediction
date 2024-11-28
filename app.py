@@ -39,8 +39,8 @@ elif choice == "Student Information":
     st.markdown("""
     #### Developer Information:
     - **Student Name**: Azumara Emmanuel
-    - **Matriculation Number**: Enter Matric Number
-    - **Supervisor Name**: [Enter Supervisor Name]
+    - **Matriculation Number**: Imsu/2020/4892
+    - **Supervisor Name**: Dr Agbakwuru
     - **Department**: Computer Science
     - **School**: Imo State University
     """)
